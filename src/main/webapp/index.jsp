@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<%out.print("index ...."); %>
+	<%out.print("index 123...."); %>
 </body>
 </html>
