@@ -12,6 +12,7 @@
 	String ip=addr.getHostAddress().toString();//获得本机IP
 	String hostName=addr.getHostName().toString();//获得本机名称 
 	 out.println("ip:"+ip+",hostName:"+hostName);
+	System.out.println("sysout log print....");
 	%>
 </body>
 </html>
